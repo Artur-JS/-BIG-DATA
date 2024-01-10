@@ -207,33 +207,3 @@ p {
     padding-top: 100px;
     padding-bottom: 100px;
 }
-
-/* .background-lines {
-    position: absolute;
-    width: 100%;
-    height: 200px;
-    overflow: hidden;
-  }
-
-  .background-lines::before, .background-lines::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    width: 200%;
-    height: 200%;
-    border-radius: 50%;
-    background: #fff;
-    z-index: -1;
-  }
-
-  .background-lines::before {
-    left: 50%;
-    transform: translateX(-50%);
-    background: rgba(255, 255, 255, 0.3); 
-  }
-
-  .background-lines::after {
-    left: 48%; 
-    transform: translateX(-50%) rotate(-5deg); 
-    background: rgba(255, 255, 255, 0.5); 
-  } */
